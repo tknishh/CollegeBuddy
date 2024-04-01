@@ -1,4 +1,4 @@
-# College-Finder-Bot 🏫
+# CollegeBuddy: Your college-finder-bot 🏫
 
 College Finder Bot is an interactive chatbot that provides the best college suggestions and answers your basic queries related to your specification and preferences. This bot utilizes natural language processing techniques to understand user queries and provide appropriate responses based on pre-defined data.
 
